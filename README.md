@@ -3,4 +3,4 @@
 
 
 ## inicializar un archivo tailwindcss
-### `npx tailwind init tailwind.js`
+### `npx tailwindcss init`
