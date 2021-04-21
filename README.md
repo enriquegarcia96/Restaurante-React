@@ -14,3 +14,4 @@
 
 # para validar los formularios
 ### `npm i formik`
+### `npm i yup`
