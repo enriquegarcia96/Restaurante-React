@@ -2,6 +2,7 @@
 ### `npm i --save-dev autoprefixer postcss-cli tailwindcss`
 ### `npm i postcss`
 ### `npm i react-router react-router-dom`
+### `npm install --save history`
 
 ## inicializar un archivo tailwindcss
 ### `npx tailwind init tailwind.js`
