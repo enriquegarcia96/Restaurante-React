@@ -15,3 +15,6 @@
 # para validar los formularios
 ### `npm i formik`
 ### `npm i yup`
+
+# para subir imagenes a FireStorage
+### `npm i react-firebase-file-uploader`
